@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<LocalSetting xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ContentWidth>1920</ContentWidth>
+  <ContentHeight>1080</ContentHeight>
+  <WindowWidth>1920</WindowWidth>
+  <WindowHeight>1080</WindowHeight>
+  <WindowLeft>0</WindowLeft>
+  <WindowTop>0</WindowTop>
+  <PlayBack>1</PlayBack>
+</LocalSetting>
